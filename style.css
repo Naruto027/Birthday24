@@ -6,14 +6,9 @@ body {
   font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
-/* h1{
-  text-align: center;
-  color:#EBF5EE ;
-  font-weight: 400;
-  margin-bottom: 25px;
-  margin-top: 25px;
-} */
-
+h1{
+  display: none;
+}
 
 #image img {
     width: 100%;
@@ -114,4 +109,28 @@ footer{
   text-align: center;
   left: 40vw;
   font-size: 20px;
+}
+
+/* Media query for mobile devices */
+@media (max-width: 768px) {
+  body {
+      background-color:#EDEAE7;
+      background-image: none;
+  }
+}
+
+/* Media query for even smaller devices (e.g., phones in portrait mode) */
+@media (max-width: 480px) {
+  body {
+      background-color: #EDEAE7;
+      background-image: none; 
+  }
+  h1{
+    text-align: center;
+    color:#EBF5EE ;
+    font-weight: 400;
+    margin-bottom: 25px;
+    margin-top: 25px;
+    display: inline;
+  }
 }
