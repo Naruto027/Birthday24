@@ -11,7 +11,7 @@ let obj = {
   },
   "Prapti": {
     msg: "Happy birthday to my bestooo friendooo !!💛 You always have my back. Here's to another year of inside jokes and endless laughter...😜. Cheers to lifelong friendship🥂.You're truly one of a kind 🧁",
-    image: ['images/prapti-1.jpeg', 'images/prapti-2.jpg', 'images/prapti-3.jpeg', 'images/prapti-4.jpg']
+    image: ['images/prapti-2.jpg', 'images/prapti-3.jpeg', 'images/prapti-4.jpg','images/prapti-1.jpeg']
   },
   "Aryan": {
     msg: "Happy Birthday my younger brother! From midnight conversations and epic concerts to planning unforgettable trips, every moment with you is priceless. Here's to more amazing adventures together!",
@@ -44,6 +44,14 @@ let obj = {
   "Neerav": {
     msg: "The energy u have brings so much joy to every moment, and your friendship has been a blessing to me , thank you for everything and have a great day",
     image: ['images/neerav-1.jpeg']
+  },
+  "Prutha":{
+    msg:'Darshan: A friend who listens to me intently, kind of a rare one!🙃',
+    image:['images/prutha-1.jpg','images/prutha-2.jpg','images/prutha-3.jpg','images/prutha-4.jpg']
+  },
+  "Om":{
+    msg:'Strangers se aesthetic k 14 tak ka safar yaad rahega Pathak saheb!HAPPYYY BIRTHDAY!🖤',
+    image:['images/om.jpeg']
   }
 };
 
